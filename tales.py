@@ -13,3 +13,4 @@ def game():
   else:
     print("Try again!")
   game()
+game()
