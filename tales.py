@@ -12,5 +12,5 @@ def game():
     game()
   else:
     print("Try again!")
-  game()
+    game()
 game()
